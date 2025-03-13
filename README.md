@@ -6,10 +6,18 @@
 
 <p align="center">
 
+[![Repo](https://img.shields.io/badge/github-gray?logo=github)](https://packagist.org/packages/matephp/simple-logger)
+[![Latest Stable Version](https://img.shields.io/packagist/v/matephp/simple-logger)](https://packagist.org/packages/matephp/simple-logger)
+[![Unstable Version](https://img.shields.io/badge/unstable-dev--main-orange)](https://packagist.org/packages/matephp/simple-logger)
+[![PHP from Packagist](https://img.shields.io/packagist/php-v/matephp/simple-logger.svg?logo=php)](https://packagist.org/packages/matephp/simple-logger)
+[![Total Downloads](https://img.shields.io/packagist/dt/matephp/simple-logger)](https://packagist.org/packages/matephp/simple-logger)
+[![License](https://img.shields.io/packagist/l/matephp/simple-logger)](https://packagist.org/packages/matephp/simple-logger)
+[![Hits-of-Code](https://hitsofcode.com/github/mate-php/simple-logger?branch=main)](https://hitsofcode.com/github/mate-php/simple-logger/json?branch=main)
+
 </p>
 
 # Instalation
-
+dto
 __Via Composer__
 
 ```sh
