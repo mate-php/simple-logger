@@ -5,10 +5,12 @@ declare(strict_types=1);
 namespace Mate\Logger;
 
 use Mate\Logger\Contract\Handler;
+use Mate\Logger\Contract\Logger as ContractLogger;
+use Psr\Log\LoggerInterface;
 use Psr\Log\LoggerTrait;
 use Stringable;
 
-final class Logger
+final class Logger implements LoggerInterface, ContractLogger
 {
     use LoggerTrait;
 
